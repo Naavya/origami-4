@@ -1,0 +1,176 @@
+h1{
+    color: darkblue;
+  border: solid;
+}
+.header{
+    background-color: gold;
+    border: solid;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-between;
+    background-color:pink;
+    padding:15px;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight: 400;
+    color: black;
+}
+.camel{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.chameleon{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.cicada{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.panda{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.pigeon{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.teddybear{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+a:link{
+    color:orange;
+}
+a:visited{
+    color:purple;
+}
+.camel{
+   position: relative;
+}
+.camel p{
+   position:absolute;
+   top: 50%;
+   left:50%;
+   transform:translate(-50%,-50%);
+   opacity: 0;
+}
+.camel:hover p{
+   opacity: 1;
+}
+.camel:hover img{
+   opacity: 0.33
+}
+.chameleon{
+    position: relative;
+ }
+ .chameleon p{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 0;
+ }
+ .chameleon:hover p{
+    opacity: 1;
+ }
+ .chameleon:hover img{
+    opacity: 0.33
+ }
+ .cicada{
+    position: relative;
+ }
+ .cicada p{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 0;
+ }
+ .cicada:hover p{
+    opacity: 1;
+ }
+ .cicada:hover img{
+    opacity: 0.33
+ }
+ .panda{
+    position: relative;
+ }
+ .panda p{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 0;
+ }
+ .panda:hover p{
+    opacity: 1;
+ }
+ .panda:hover img{
+    opacity: 0.33
+ }
+ .pigeon{
+    position: relative;
+ }
+ .pigeon p{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 0;
+ }
+ .pigeon:hover p{
+    opacity: 1;
+ }
+ .pigeon:hover img{
+    opacity: 0.33
+ }
+ .teddybear{
+    position: relative;
+ }
+ .teddybear p{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 0;
+ }
+ .teddybear:hover p{
+    opacity: 1;
+ }
+ .teddybear:hover img{
+    opacity: 0.33
+ }
+ 
+ 
+ 
+ 
+
+
+
